@@ -1,0 +1,21 @@
+.main-header{
+    text-align: center;
+    color: rgb(255, 0, 106);
+}
+
+a{
+    text-decoration: none;
+    margin: 10px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap:10px
+    border-style:dash;
+
+.main-nav-container{
+    margin: 30;
+}
+
+.secondary-one-container{
+
+}
+
